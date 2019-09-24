@@ -1,0 +1,8 @@
+Creational Design Patterns (5) -
+
+- program should not depend on how objects are created and arranged
+- instantiation is an activity that should not always be done in public and can often lead to coupling problems
+- new keyword cannot be user on abstract class or an interface, as it is only used to create instances of a concrete class
+- encapsulates the knowledge the knowledge about which concrete class that system uses.
+- insulate yourself from constant changes to classes that implement these classes.
+- point is to exploit polymorphism, so that the actual runtime object is not locked into code

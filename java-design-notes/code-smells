@@ -1,0 +1,16 @@
+Design Smells (code smells) -
+1. Rigidity (changing one thing, breaks other things)
+2. Fragility
+3. Immobility
+4. Viscosity
+5. Needless repetition
+6. Opacity (Clarity is important)
+7. Needless complexity (if you know something don't just put it in code until it is required by the code)
+
+Remember that duplication of code can be removed with inheritance. 
+
+Keeping methods, variables, and classes violates encapsulation.
+
+Classes should not be huge, it is not performing a specific function that it was designed to perform.
+
+Design should be futuristic but should not be so comprehensive that it becomes complex. Always take next 10 to 15 years in mind.
