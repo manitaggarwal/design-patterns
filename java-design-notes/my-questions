@@ -1,0 +1,1 @@
+- creational -> builder method -> why am I using a director to build the class? why not do it directly? -> maybe because a person may forget to call one of the methods of a class and the end product will be incomplete, after using a director to create/construct builder concrete class, we can be sure that all the required method in the class would be called automatically.
