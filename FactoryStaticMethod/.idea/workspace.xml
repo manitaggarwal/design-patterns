@@ -1,8 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="627fc28d-c351-4985-9a39-24628f9ce6b1" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="627fc28d-c351-4985-9a39-24628f9ce6b1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../AdapterObjectComposition/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AdapterObjectComposition/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AdapterObjectComposition/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AdapterObjectComposition/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AdapterObjectComposition/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AdapterObjectComposition/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AdapterObjectComposition/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AdapterObjectComposition/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AdapterObjectComposition/AdapterObjectComposition.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AdapterObjectComposition/out/production/AdapterObjectComposition/com/manit/Duck.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AdapterObjectComposition/out/production/AdapterObjectComposition/com/manit/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AdapterObjectComposition/out/production/AdapterObjectComposition/com/manit/MallardDuck.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AdapterObjectComposition/out/production/AdapterObjectComposition/com/manit/Turkey.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AdapterObjectComposition/out/production/AdapterObjectComposition/com/manit/TurkeyAdapter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AdapterObjectComposition/out/production/AdapterObjectComposition/com/manit/WildTurkey.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +33,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1RGhQUYLb7LfE90YrPhcLhF7hdZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -28,18 +55,6 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\manit\Documents\manit-documents\personal-code\practice-code-java-design\FactoryStaticMethod\src\com\manit" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -69,10 +84,17 @@
       <option name="presentableId" value="Default" />
       <updated>1569299323345</updated>
       <workItem from="1569299326800" duration="2393000" />
+      <workItem from="1585383412119" duration="60000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="492" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1585383422058">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="492" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.720@0.0.1280.720" timestamp="1585383422058" />
   </component>
 </project>
